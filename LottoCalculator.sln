@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoCalculator", "LottoCalculator.csproj", "{12A53205-FA97-451A-8E01-7155A6C6A4A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A53205-FA97-451A-8E01-7155A6C6A4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A53205-FA97-451A-8E01-7155A6C6A4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A53205-FA97-451A-8E01-7155A6C6A4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A53205-FA97-451A-8E01-7155A6C6A4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38DAEE95-0F18-497B-A42F-987FF2EF20F8}
+	EndGlobalSection
+EndGlobal

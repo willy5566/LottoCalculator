@@ -1,0 +1,8 @@
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\LottoCalculator.exe.config
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\LottoCalculator.exe
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\LottoCalculator.pdb
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.csprojAssemblyReference.cache
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.Properties.Resources.resources
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.csproj.GenerateResource.cache
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.exe
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.pdb
