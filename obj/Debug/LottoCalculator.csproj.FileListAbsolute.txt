@@ -11,3 +11,5 @@ E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\HtmlAgil
 E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\HtmlAgilityPack.pdb
 E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\HtmlAgilityPack.xml
 E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.csproj.CopyComplete
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\MyLottery.dll
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\MyLottery.pdb
