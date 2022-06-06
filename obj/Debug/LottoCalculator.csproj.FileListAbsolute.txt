@@ -6,3 +6,8 @@ E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCal
 E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.csproj.GenerateResource.cache
 E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.exe
 E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.pdb
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.Form1.resources
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\HtmlAgilityPack.dll
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\HtmlAgilityPack.pdb
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\bin\Debug\HtmlAgilityPack.xml
+E:\user\Documents\Visual Studio 2019\Projects\LottoCalculator\obj\Debug\LottoCalculator.csproj.CopyComplete
