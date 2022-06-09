@@ -21,7 +21,14 @@ namespace LottoCalculator
         LottoComputer lc;
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();           
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            lsvHistory.Items.Clear();
+            lsvTicket.Items.Clear();
+
             lc = new LottoComputer();
         }
 
@@ -44,7 +51,25 @@ namespace LottoCalculator
             csvItems.Add(CsvItem.Star6);
             csvItems.Add(CsvItem.Star7);
             lc.LoadHistoryCSV(@"E:\user\Desktop\樂透歷年開獎.csv", csvItems);
-            
+
+            var history = lc.History;
+
+            lsvHistory.BeginUpdate();
+            for (int i = 0; i < history.Count; i++)
+            {
+                var info = history[i];
+                lsvHistory.Items.Add(info.Index);
+                lsvHistory.Items[i].SubItems.Add(info.Date);
+                lsvHistory.Items[i].SubItems.Add(info.BasicStars[0].ToString());
+                lsvHistory.Items[i].SubItems.Add(info.BasicStars[1].ToString());
+                lsvHistory.Items[i].SubItems.Add(info.BasicStars[2].ToString());
+                lsvHistory.Items[i].SubItems.Add(info.BasicStars[3].ToString());
+                lsvHistory.Items[i].SubItems.Add(info.BasicStars[4].ToString());
+                lsvHistory.Items[i].SubItems.Add(info.BasicStars[5].ToString());
+                lsvHistory.Items[i].SubItems.Add(info.Special.ToString());
+            }
+            lsvHistory.EndUpdate();
+
             button2.Text = lc.NumberOfHistory.ToString();
         }
 
@@ -101,6 +126,6 @@ namespace LottoCalculator
             {
                 Console.WriteLine(award);
             }
-        }
+        }    
     }
 }
